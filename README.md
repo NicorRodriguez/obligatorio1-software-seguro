@@ -42,4 +42,4 @@ Primero hay que descargar la imagen del contenedor de Juice Shop para poder crea
 
 ### Prueba de visualizacion
 
-![video](./record.mov)
+>[!VIDEO](./record.mp4)
