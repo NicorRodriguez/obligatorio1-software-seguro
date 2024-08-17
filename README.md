@@ -21,7 +21,7 @@ Se decidió usar ZAP.
 1. Ingresar al sitio de descargas oficial de ZAP.
 2. Selecciona el instalador que más te convenga.
 3. El ejecutable se empezará a descargar automáticamente.
-4. Abre el archivo ejecutable y sigue los pasos hasta finalizar la descarga.
+4. Abre el archivo ejecutable y sigue los pasos hasta finalizar la instalación.
 
 **Url ZAP**: [https://www.zaproxy.org/download/]
 
@@ -37,5 +37,9 @@ Primero hay que descargar la imagen del contenedor de Juice Shop para poder crea
 
 ## Pasos:
 1. Con el comando ‘docker pull bkimminich/juice-shop’ se descarga la imagen mas actualizada.
-2. Con el comando ‘docker run -d -p 127.0.0.1:3000:3000 bkimminich/juice-shop’ se corre el contenedor en localhost, en el puerto 3000.
+2. Con el comando ‘docker run -d -p 127.0.0.1:3000:3000 bkimminich/juice-shop’ se corre el contendor en localhost, en el puerto 3000.
 3. Navegando a http://localhost:3000 podrás visualizar la página de Juice Shop.
+
+### Prueba de visualizacion
+
+![video](./record.mov)
